@@ -18,6 +18,6 @@ module.exports = {
         // Deletes all the songs from the queue and exits the channel
 		queue.destroy();
 
-        await interaction.reply("Why you do this to me?")
+        await interaction.reply("Sarabye?")
 	},
 }
